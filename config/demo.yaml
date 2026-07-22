@@ -1,0 +1,23 @@
+# Per-client configuration — load with pyyaml: yaml.safe_load(open(path))
+client_id: demo
+name: Demo Client
+
+# Paths are relative to project root
+footage_dir: assets/clients/demo/green_screen
+# Explicit base talking-head clip (52s man talking, 1080p). Overrides footage_dir glob pick.
+footage_file: assets/clients/demo/green_screen/greenscreen_person_1.mp4
+voice_sample: assets/clients/demo/voice/sample.mp3
+
+# voice_id: filled after ElevenLabs clone; empty string means clone-on-run
+voice_id: ""
+
+product_dir: assets/clients/demo/product
+product_doc: assets/clients/demo/product/product.md
+
+background_image: assets/backgrounds/office.jpg
+music_track: assets/music/track.mp3
+
+brand:
+  name: "AquaSteel"
+  primary_color: "#1E88E5"
+  tone: "energetic, friendly"

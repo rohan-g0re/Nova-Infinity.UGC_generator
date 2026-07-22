@@ -1,0 +1,30 @@
+# Virtual environment
+.venv/
+
+# Environment secrets
+.env
+
+# Build output
+output/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets — NEVER publish
+CREDENTIALS.md
+*.env
+!.env.example
+
+# Local browser/tooling artifacts
+.playwright-mcp/
+*.png
+
+# Large local media (samples are re-downloadable; see README)
+assets/clients/*/green_screen/*
+assets/clients/*/voice/*
+assets/clients/*/product/*.jpg
+assets/backgrounds/
+assets/music/*
+!**/.gitkeep
+!assets/clients/demo/product/product.md

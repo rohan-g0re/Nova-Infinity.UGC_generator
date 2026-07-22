@@ -1,0 +1,45 @@
+{
+  "title": "AquaSteel — Cold for 24, Ready for Anything",
+  "beats": [
+    {
+      "beat": "hook",
+      "text": "Okay, I need to show you the one thing that finally fixed my hydration — this is the AquaSteel, and it keeps my water ice-cold for a full 24 hours.",
+      "duration_s": 6.0,
+      "broll_query": "pouring ice water bottle",
+      "background_query": "bright modern kitchen interior morning light",
+      "visual": "Spokesperson holds the AquaSteel up to camera, condensation-free, in a sunlit kitchen"
+    },
+    {
+      "beat": "problem",
+      "text": "I used to grab a cheap plastic bottle before a hike, and two hours in it was warm, leaking all over my bag, and honestly kind of gross.",
+      "duration_s": 5.0,
+      "broll_query": "warm plastic bottle backpack",
+      "background_query": "sunny outdoor hiking trail with trees",
+      "visual": "Spokesperson on a trail, frustrated, shaking a warm leaky plastic bottle"
+    },
+    {
+      "beat": "demo",
+      "text": "The AquaSteel is double-wall vacuum insulated — cold for 24 hours, hot for 12 — with a twist-and-lock leak-proof lid, and this 750ml size gets me through the whole day on one fill.",
+      "duration_s": 8.0,
+      "broll_query": "water bottle desk closeup",
+      "background_query": "clean minimalist desk workspace",
+      "visual": "Close demo at a tidy desk — twist the lid shut, flip it upside down, no leaks"
+    },
+    {
+      "beat": "proof",
+      "text": "I've been using mine every single day for months — gym, work, weekend trails — and it still looks brand new thanks to that powder-coated grip. I'm genuinely obsessed.",
+      "duration_s": 5.0,
+      "broll_query": "happy customer cafe smiling",
+      "background_query": "cozy cafe interior warm lighting",
+      "visual": "Spokesperson relaxed in a cafe, sipping from the AquaSteel, easy authentic smile"
+    },
+    {
+      "beat": "cta",
+      "text": "For thirty-four bucks in six bold colors, this is a no-brainer — tap the link and grab yours before your favorite sells out.",
+      "duration_s": 5.0,
+      "broll_query": "water bottle color lineup",
+      "background_query": "modern gym interior",
+      "visual": "Spokesperson at the gym points to camera, then to the AquaSteel — confident CTA"
+    }
+  ]
+}
